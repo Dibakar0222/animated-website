@@ -25,7 +25,7 @@ A **fully responsive frontend clone** of the awwwards-winning website, Zentry, b
 
 ## 🖼️ Live Demo
 
-Check out the live demo here: [**Zentry Clone Demo**](https://your-live-demo-link.com)
+Check out the live demo here: [**Zentry Clone Demo**](https://zentry-clone-vert.vercel.app/)
 
 Experience the smooth animations, responsive design, and interactive UI just like the original Zentry website!
 
